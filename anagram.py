@@ -12,5 +12,4 @@ def find_anagrams(word, anagram):
         return False
 
 #testing
-find_anagrams("hello", "check") 
-find_anagrams("below", "elbow")
+print(find_anagrams("hello", "check"))
